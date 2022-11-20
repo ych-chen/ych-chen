@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm ychch 👋
 
 <!--
 **ych-chen/ych-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning to become a professional front-end developer
+😄 Hope to participate in open source community building
+
+- you can read more in my blog: https://ychch.top/
